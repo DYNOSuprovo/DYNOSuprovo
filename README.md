@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suprovo</h1>
+<h1 align="center">Hi 👋, I'm Suprovo/Drago/DYNO</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
 <p align="center">
