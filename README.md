@@ -16,7 +16,7 @@
 ### 🔥 Current Projects
 - 🚀 [**Hindu Scripture GPT**](https://github.com/DYNOSuprovo/Hindu) — Multilingual QA over Hindu texts using RAG.
 - 🥗 [**AI Diet Planner**](https://github.com/DYNOSuprovo/Diet-Suggest) — Context-aware diet suggestions using Gemini + ChromaDB.
-- 📄 [**Resume & Career Agent**](https://github.com/DYNOSuprovo/NLTK-EXP) — Parses resumes and gives career advice using Gemini + LangChain.
+- 📄 [**AI Expense Advisor**](https://github.com/DYNOSuprovo/NLTK-EXP) — Parses resumes and gives career advice using Gemini + LangChain.
 
 ---
 
