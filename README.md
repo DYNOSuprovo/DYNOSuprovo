@@ -12,6 +12,9 @@
 </p>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dynosuprovo&label=🔥+Profile+views&color=ff69b4&style=flat-square" alt="dynosuprovo" />
+</p>
 
 ### 🔥 Current Projects
 - 🚀 [**Hindu Scripture GPT**](https://github.com/DYNOSuprovo/Hindu) — Multilingual QA over Hindu texts using RAG.
