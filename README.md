@@ -93,3 +93,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dynosuprovo&theme=dark" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynosuprovo&layout=compact&theme=dark" alt="langs" />
 </p>
+
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/DYNOSuprovo/DYNOSuprovo/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
