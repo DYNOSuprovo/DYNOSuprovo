@@ -1,164 +1,361 @@
-<!-- ============================================================ -->
-
-<!--                 ULTIMATE CYBERPUNK GITHUB README            -->
-
-<!-- ============================================================ -->
+<!-- ======================================================================= -->
+<!--                   SUPROVO // DYNO // NEURAL CORE v7.0                   -->
+<!--        GOD-TIER CYBERPUNK HIGH-DENSITY AI SYSTEM ARCHITECT DOSSIER      -->
+<!-- ======================================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,18:120136,38:3a0ca3,62:00e5ff,82:ff00ff,100:ff4ecd&text=SUPROVO%20%7C%20DRAGO%20%7C%20DYNO&fontSize=44&fontAlignY=38&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20Cyber%20Developer&descSize=20&descAlignY=60&animation=twinkling" alt="header" />
+<!-- Cyber Wave Dynamic Neon Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,12:0f051d,25:240046,45:3a0ca3,68:7209b7,85:f72585,100:00f7ff&text=SUPROVO%20MALLICK%20//%20DYNO&fontSize=44&fontAlignY=36&fontColor=ffffff&desc=Generative%20AI%20Systems%20Architect%20%E2%80%A2%20RAG%20%26%20Agentic%20Pipelines%20%E2%80%A2%20Deterministic%20AI&descSize=18&descAlignY=58&animation=twinkling" alt="Neural Core Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=700&duration=2200&color=00F7FF&center=true&vCenter=true&multiline=true&width=1100&height=110&lines=%3E+booting+profile.exe;%3E+building+RAG+pipelines+%7C+LLM+systems;%3E+deploying+FastAPI+%2B+GenAI+into+production;%3E+crafting+cool+AI+systems+with+real+impact" alt="typing" />
+<!-- Holographic Neon Cyber Typing Terminal -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=700&duration=2000&color=00F7FF&background=05081600&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=%5B%E2%96%B6%5D+INITIALIZING+NEURAL_LINK%3A+SYSTEMS_ONLINE;%5B%E2%96%B6%5D+ENGINEERING+ADAPTIVE+EVIDENCE+RAG+%26+MULTI-AGENT+MESHES;%5B%E2%96%B6%5D+ELIMINATING+HALLUCINATIONS+VIA+DETERMINISTIC+VERIFICATION;%5B%E2%96%B6%5D+SHIPPING+HIGH-CONCURRENCY+PRODUCTION+AI+BACKENDS" alt="Terminal Typing" />
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&logo=dependabot&logoColor=black" />
-<img src="https://img.shields.io/badge/MODE-ULTIMATE%20CYBERPUNK-ff00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20RAG%20%7C%20SYSTEMS-00e5ff?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/BUILDING-REAL%20WORLD%20AI-7a00ff?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=dynosuprovo&label=PROFILE%20SCANS&style=for-the-badge&color=blueviolet" />
-<img src="https://img.shields.io/github/followers/DYNOSuprovo?style=for-the-badge&color=0d1117" />
+<!-- Real-Time Status Badges & HUD Telemetry -->
+<p align="center">
+  <a href="#01--neural_dossier-identity_matrix"><img src="https://img.shields.io/badge/OPERATIONAL_STATUS-ALL%20SYSTEMS%20GO-00ff99?style=for-the-badge&logo=dependabot&logoColor=000" alt="Status" /></a>
+  <a href="#02--architectural_core-evidence_first_ai"><img src="https://img.shields.io/badge/CORE_FRAMEWORK-LANGGRAPH%20%7C%20FASTAPI-00f7ff?style=for-the-badge&logo=diagram-next&logoColor=000" alt="Framework" /></a>
+  <a href="#04--open_source_ops-17_merged_prs"><img src="https://img.shields.io/badge/OPEN_SOURCE-17%2B%20MERGED%20PRS-ff007f?style=for-the-badge&logo=git&logoColor=fff" alt="Open Source" /></a>
+  <a href="#07--algorithmic_core-problem_solving"><img src="https://img.shields.io/badge/ALGORITHMIC_CORE-340%2B%20SOLVED-b5179e?style=for-the-badge&logo=leetcode&logoColor=fff" alt="DSA" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dynosuprovo&label=SECURITY_CLEARANCE_VISITS&style=for-the-badge&color=7209b7" alt="Views" />
+</p>
 
 </div>
 
 ---
 
+<!-- Animated Glowing Cyber Laser Divider -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dynosuprovo&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=14&margin-h=14" alt="trophies" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </div>
 
----
+<!-- ======================================================================= -->
+<!--                              NEURAL DOSSIER                             -->
+<!-- ======================================================================= -->
 
-# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="34" /> NEURAL DOSSIER
+# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="36" /> `01 // NEURAL_DOSSIER [IDENTITY_MATRIX]`
 
-<div align="center">
-  <img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="cyber gif" />
-</div>
-
-```bash
-> whoami
-Suprovo Mallick
-
-> class
-AI / ML Developer
-
-> specialization
-GenAI systems • RAG pipelines • agentic workflows • ML deployment
-
-> mission
-Build useful, deployable, and visually cool AI systems instead of dead notebook demos.
-
-> current_focus
-- retrieval engineering
-- grounded generation
-- runtime verification
-- FastAPI + LLM backends
-- scalable AI product workflows
-
-> location
-West Bengal, India
-```
-
-<br clear="right"/>
-
----
-
-# <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="34" /> SIGNAL BOARD
-
-<div align="center">
-
-| Signal               | Value                                  |
-| -------------------- | -------------------------------------- |
-| 🎓 Education         | B.Tech CSE, KIIT (2023–2027)           |
-| 💼 Current Direction | GenAI apps, RAG, agents, production AI |
-| ⚡ Strength           | Turning ideas into deployable systems  |
-| 🧠 Problem Solving   | 280+ DSA problems solved               |
-| 🏅 Recognition       | HackerRank 5-Star Python               |
-| 🎯 Vibe              | Hacker energy + AI builder mindset     |
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="34" /> FEATURED SYSTEMS
-
-<div align="center">
-
-<table>
+<table border="0" width="100%">
 <tr>
-<td width="50%" valign="top">
-
-## 🌾 Wheat Guardian
+<td width="58%" valign="top">
 
 ```yaml
-system: AI wheat disease detection
-stack: [TensorFlow, EfficientNetV2, FastAPI, Docker]
-accuracy: 93%+
-status: deployed
+# OPERATOR IDENTITY SPECIFICATION
+OPERATOR:        Suprovo Mallick
+CALLSIGN:        DYNO
+ROLE:            Generative AI & ML Systems Engineer
+ACADEMICS:       B.Tech in Computer Science @ KIIT (2023 - 2027)
+ACCREDITATION:   BS in Data Science (Foundation) @ IIT Madras
+COORDINATES:     West Bengal, India [88.3639° E, 22.5726° N]
+
+# COMBAT MANIFESTO
+DIRECTIVE: >
+  "Notebook prototypes are child's play. I engineer verifiable,
+  evidence-grounded, low-latency AI pipelines and multi-agent
+  swarms architected to withstand heavy production concurrency."
 ```
 
-* Multi-class wheat disease classification
-* End-to-end inference pipeline
-* Deployable API + container workflow
-
-**LIVE NODE:** [https://wheat-analysis-app.vercel.app](https://wheat-analysis-app.vercel.app)
+#### ⚡ `TELEMETRY INTEGRITY GAUGES`
+* **Adaptive RAG & Dynamic Pruning** `[████████████████] 100%` *(NLI Filtering)*
+* **Multi-Agent State Orchestration** `[██████████████░░]  92%` *(LangGraph StateGraphs)*
+* **Deterministic Output Grounding** `[██████████████░░]  90%` *(Token-Overlap Bypass)*
+* **Inference Concurrency & APIs** `[███████████████░]  95%` *(FastAPI / 4-bit Quantization)*
+* **Open Source Runtime Patches** `[████████████████]  98%` *(ComfyUI / LlamaIndex / Haystack)*
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" align="center" valign="middle">
 
-## 🥗 Aahar
+<!-- High-Tech Cyber HUD Loop -->
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="310" alt="Cyber Grid Interface" style="border-radius: 12px; border: 2px solid #00f7ff;" />
 
-```yaml
-system: AI diet + wellness companion
-stack: [LangChain, Gemini API, ChromaDB, FastAPI]
-type: RAG assistant
-status: live
+<br/><br/>
+
+```ini
+[RUNTIME_STATUS]
+RETRIEVAL_LATENCY   = < 2.0s
+HALLUCINATION_RATE  = < 10%
+TOKEN_OPTIMIZATION  = ~80% PRUNED
+CITATION_PRECISION  = 100% VERIFIED
 ```
-
-* Context-aware nutrition guidance
-* Calorie estimation + wellness assistance
-* Retrieval-backed conversation flow
-
-**LIVE NODE:** [https://aahar-react.vercel.app](https://aahar-react.vercel.app)
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
-## 🧠 Intent Compiler
+---
 
-```yaml
-system: multi-agent architecture generator
-stack: [LangGraph, Groq LLaMA, Streamlit]
-mode: orchestration
-status: deployed
+<!-- Animated Glowing Cyber Laser Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+</div>
+
+<!-- ======================================================================= -->
+<!--                        ARCHITECTURE & PHILOSOPHY                        -->
+<!-- ======================================================================= -->
+
+# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="36" /> `02 // ARCHITECTURAL_CORE [EVIDENCE_FIRST_AI]`
+
+> *"Foundation models are commoditized runtime engines. Real AI engineering begins at query semantics, dynamic pruning, context sanitation, and deterministic output verification."*
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    classDef influx fill:#050816,stroke:#00f7ff,stroke-width:2px,color:#00f7ff;
+    classDef router fill:#120136,stroke:#7209b7,stroke-width:2px,color:#fff;
+    classDef filter fill:#240046,stroke:#ff007f,stroke-width:2px,color:#ff70a6;
+    classDef mesh fill:#0a192f,stroke:#00ff99,stroke-width:2px,color:#00ff99;
+    classDef gate fill:#1f1147,stroke:#ffd166,stroke-width:2px,color:#ffd166;
+    classDef out fill:#003566,stroke:#00e5ff,stroke-width:2px,color:#fff;
+
+    Q[User / Telemetry Stream Influx]:::influx --> R[Semantic Router Node]:::router
+    R --> S[Hybrid Dense-Sparse Fetch: ChromaDB + BM25]:::router
+    S --> P[NLI Context Pruning Engine: Threshold >= 0.70]:::filter
+    P --> M[Multi-Agent Reasoning Graph: LangGraph]:::mesh
+    M --> V{Deterministic Gate: Overlap Heuristic >= 0.72?}:::gate
+    V -- Bypass Heavy LLM --> O[Async FastAPI REST Endpoint]:::out
+    V -- Ambiguous Match --> C[Deterministic Critic Node]:::filter
+    C --> O
 ```
 
-* Product idea → structured architecture
-* Generates schema, requirements, pseudo-code
-* Agentic planning workflow
+</div>
 
-**LIVE NODE:** [https://intent-compiler-bydyno.streamlit.app](https://intent-compiler-bydyno.streamlit.app)
-**SOURCE:** [https://github.com/DYNOSuprovo/intent-compiler](https://github.com/DYNOSuprovo/intent-compiler)
+<br/>
+
+| LAYER | ENGINE SUBSYSTEM | ARCHITECTURAL IMPACT |
+| :---: | :--- | :--- |
+| **01** | **Hybrid Vector-Sparse Indexing** | Combined ChromaDB dense embeddings with BM25 sparse keyword rankers for multi-modal recall. |
+| **02** | **Cross-Encoder NLI Pruning** | Strips duplicate and contradictory claims with NLI score $\ge 0.70$, slashing token spend by **$\sim 80\%$**. |
+| **03** | **Stateful Multi-Agent Mesh** | LangGraph orchestration isolating Router, Extractor, Synthesizer, and Critic nodes with cyclic recovery. |
+| **04** | **Deterministic Verification Gate** | Token-overlap heuristic ($\ge 0.72$) eliminates costly validation LLM calls; bounds hallucinations to **$< 10\%$**. |
+| **05** | **Low-Latency Runtime Delivery** | Multi-worker async FastAPI backend with containerized Docker deployment delivering **$< 2.0\text{s}$** execution. |
+
+---
+
+<!-- Animated Glowing Cyber Laser Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+</div>
+
+<!-- ======================================================================= -->
+<!--                           FLAGSHIP SYSTEMS                              -->
+<!-- ======================================================================= -->
+
+# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="36" /> `03 // FLAGSHIP_SYSTEMS [PRODUCTION_NODES]`
+
+<!-- NODE 01 -->
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#050816">
+
+### 🧬 `NODE 01 // ADAPTIVE EVIDENCE RAG`
+> **Intelligent, Self-Evaluating Context-Pruning Retrieval Engine**  
+> `Latency: < 2.0s • Token Pruning: ~80% • Hallucination Rate: < 10% • EM Accuracy: > 75%`
+
+```
+[ARCHITECTURE FLOW]
+Query ──► Dynamic Expansion ──► 5x Parallel Fetch ──► NLI Pruning (>=0.70) ──► Grounded Qwen-4bit
+```
+
+* **Hallucination Suppression ($< 10\%$):** Employs strict NLI contradiction filtering and atomic claim extraction prior to synthesis.
+* **Context Sanitation:** Cross-encoder NLI independence metric eliminates $\sim 80\%$ of redundant tokens, ensuring ultra-dense context windows.
+* **Full-Stack Container:** Containerized React.js + FastAPI pipeline powered by a local 4-bit quantized Qwen model for sub-2-second inference.
+
+<div align="center">
+  <a href="https://github.com/DYNOSuprovo/adaptive-evidence-rag"><img src="https://img.shields.io/badge/REPO-ADAPTIVE__EVIDENCE__RAG-00f7ff?style=for-the-badge&logo=github&logoColor=000" /></a>
+  <a href="https://huggingface.co/spaces/Dyno1307/adaptive-evidence-rag"><img src="https://img.shields.io/badge/SPACE-LIVE__HF__SPACE-ffd43b?style=for-the-badge&logo=huggingface&logoColor=000" /></a>
+</div>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-## 🌍 Translate-V2
+<br/>
 
-```yaml
-system: multilingual translation engine
-stack: [Transformers, PyTorch, FastAPI]
-model: NLLB-200
-latency_gain: 38%
+<!-- NODE 02 -->
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#050816">
+
+### 🌌 `NODE 02 // PLUTO v2`
+> **Multi-Agent Document Intelligence & Evidence Verification Mesh**  
+> `Concurrency: 8-Worker Pool • Extraction Latency Drop: ~80% • Citation Precision: 100%`
+
+```
+[MULTI-AGENT PIPELINE]
+Document ──► Router Node ──► Extractor + Retriever ──► Synthesizer ──► Critic Gate ──► Verified Payload
 ```
 
-* Low-resource language translation
-* Optimized inference batching
-* Hugging Face deployment
+* **100% Verifiable Quote Attribution:** Router $\to$ Extractor $\to$ Synthesizer $\to$ Critic state graph guarantees unbacked claims are scrubbed.
+* **80% Latency Drop:** Multi-worker thread pools combined with an internal two-tier LLM response cache eliminate redundant computation.
+* **Heuristic Bypass Gate:** Token-overlap heuristic ($\ge 0.72$) bypasses heavy LLM critic verification for obvious evidence matches.
 
-**LIVE NODE:** [https://huggingface.co/spaces/Dyno1307/Translate-V2](https://huggingface.co/spaces/Dyno1307/Translate-V2)
+<div align="center">
+  <a href="https://github.com/DYNOSuprovo/Pluto"><img src="https://img.shields.io/badge/REPO-PLUTO__SYSTEM-00f7ff?style=for-the-badge&logo=github&logoColor=000" /></a>
+  <a href="https://huggingface.co/spaces/ayushKishor/plutoV2_miniProject_3rd-yr"><img src="https://img.shields.io/badge/SPACE-LIVE__HF__SPACE-ffd43b?style=for-the-badge&logo=huggingface&logoColor=000" /></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- NODE 03 -->
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#050816">
+
+### 🧠 `NODE 03 // INTENT COMPILER`
+> **Autonomous Architecture, Schema & Technical Specification Engine**  
+> `Engine: LangGraph StateGraph • Inference: Groq LLaMA-3 LPU • Stack: Streamlit + Python`
+
+```
+[AUTONOMOUS COMPILATION]
+Product Vision ──► Agent Graph ──► Requirements Spec + Architecture Blueprints + DB Schemas + Pseudocode
+```
+
+* Compiles natural-language product ideas into complete, production-grade technical blueprints, database schemas, and executable pseudocode.
+* Employs stateful LangGraph agents that autonomously critique technical viability and validate dependency graphs before compilation.
+
+<div align="center">
+  <a href="https://github.com/DYNOSuprovo/intent-compiler"><img src="https://img.shields.io/badge/REPO-INTENT__COMPILER-00f7ff?style=for-the-badge&logo=github&logoColor=000" /></a>
+  <a href="https://intent-compiler-bydyno.streamlit.app/"><img src="https://img.shields.io/badge/STREAMLIT-LIVE__COMPILER-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=fff" /></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- AUXILIARY DEPLOYMENT MATRIX -->
+<div align="center">
+
+| SYSTEM NODE | CORE STACK & ARCHITECTURE | KEY PERFORMANCE METRIC | LIVE ENDPOINT |
+| :--- | :--- | :--- | :---: |
+| **🌾 WHEAT GUARDIAN** | Edge CV Crop Pathology (`EfficientNetV2B2 + OpenCV + FastAPI`) | **93%+ Accuracy • $\sim 300\text{ms}$ Latency** | [DEPLOYED APP](https://wheat-analysis-app.vercel.app) |
+| **🌍 TRANSLATE-V2** | Low-Resource NMT Transformer (`PyTorch + NLLB-200 + FastAPI`) | **-38% Latency Gain via Batching** | [HF SPACE](https://huggingface.co/spaces/Dyno1307/Translate-V2) |
+| **🥗 AAHAR** | Dietary RAG Assistant (`LangChain + Gemini + ChromaDB + React`) | **Personalized Multi-Turn Memory** | [WEB APP](https://aahar-react.vercel.app) |
+| **💰 AI EXPENSE ADVISOR** | Financial Retrieval Engine (`Streamlit + LangChain + Gemini`) | **Semantic Spend Classification** | [GITHUB REPO](https://github.com/DYNOSuprovo) |
+
+</div>
+
+---
+
+<!-- Animated Glowing Cyber Laser Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+</div>
+
+<!-- ======================================================================= -->
+<!--                    OPEN SOURCE & CONTRIBUTION LOG                       -->
+<!-- ======================================================================= -->
+
+# <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="36" /> `04 // OPEN_SOURCE_OPS [17+_MERGED_PRS]`
+
+<div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=600&color=FF007F&center=true&vCenter=true&width=800&lines=COMMITTING+TO+CORE+AI+ECOSYSTEMS;PATCHING+PRODUCTION+RUNTIMES;DETERMINISTIC+VERIFICATION+PRIMITIVES" alt="Typing PRs" />
+</p>
+
+| PRODUCTION REPOSITORY | IMPACT HIGHLIGHT & PR MISSION | DOMAIN | STATUS |
+| :--- | :--- | :---: | :---: |
+| **`Comfy-Org / ComfyUI`** *(PR #16346 / #16312)* | **Runtime Reliability:** Guarded `prompt_worker` against unhandled execute exceptions, preventing execution thread crashes. | GenAI Core Engine | ![MERGED](https://img.shields.io/badge/PR-MERGED-00ff99?style=flat-square) |
+| **`open-webui / open-webui`** *(PR #30047 / #30006)* | **Routing & Observability:** Extended `parse_custom_headers()` to propagate `model_id` alongside user contexts for downstream routing. | LLM Interface | ![MERGED](https://img.shields.io/badge/PR-MERGED-00ff99?style=flat-square) |
+| **`run-llama / llama_index`** | **Context Integrity:** Implemented header-aware deterministic chunking and post-RAG verification primitives. | Agentic RAG | ![MERGED](https://img.shields.io/badge/PR-MERGED-00ff99?style=flat-square) |
+| **`deepset-ai / haystack`** | **Evidence Validation:** Created factual consistency and hallucination scoring modules against source documents. | Search Pipelines | ![MERGED](https://img.shields.io/badge/PR-MERGED-00ff99?style=flat-square) |
+| **`MakazhanAlpamys / Soup`** | **Distributed Training:** Patched DeepSpeed empty-param-group guards to properly forward transformer model arguments. | Model Training | ![MERGED](https://img.shields.io/badge/PR-MERGED-00ff99?style=flat-square) |
+| **`smoothAPI` & `Surgite`** | **Backend Resilience:** Built async retry predicates, backoff logic, and extensible model provider wrappers. | Cloud / APIs | ![MERGED](https://img.shields.io/badge/PR-MERGED-00ff99?style=flat-square) |
+
+</div>
+
+---
+
+<!-- Animated Glowing Cyber Laser Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+</div>
+
+<!-- ======================================================================= -->
+<!--                         TACTICAL WEAPON STACK                           -->
+<!-- ======================================================================= -->
+
+# <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="36" /> `05 // TACTICAL_ARMORY [FULL_SPECTRUM_STACK]`
+
+<div align="center">
+
+<!-- High Resolution Full-Color Skill Icons Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,postgres,fastapi,docker,pytorch,tensorflow,huggingface,opencv,git,linux,bash,aws,postman&perline=8" alt="Tech Armory Icons" />
+</a>
+
+<br/><br/>
+
+<!-- Specialized AI / LLM Framework Shield Grid -->
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-Agentic_StateGraphs-ff007f?style=for-the-badge&logo=diagram-next&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Orchestration-00e5ff?style=for-the-badge&logo=chainlink&logoColor=black" />
+  <img src="https://img.shields.io/badge/LlamaIndex-Context_Pipelines-7928ca?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-Vector_Storage-38bdf8?style=for-the-badge&logo=databricks&logoColor=black" />
+  <img src="https://img.shields.io/badge/FAISS-Dense_Similarity-00ff99?style=for-the-badge&logo=meta&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq-LPU_Inference-f43f5e?style=for-the-badge&logo=speedtest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-Multimodal_LLMs-4285f4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-Rapid_Prototyping-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<!-- Animated Glowing Cyber Laser Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+</div>
+
+<!-- ======================================================================= -->
+<!--                    WORK EXPERIENCE & PUBLICATIONS                       -->
+<!-- ======================================================================= -->
+
+# <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="36" /> `06 // INDUSTRY_LOG [EXPERIENCE_&_RESEARCH]`
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" bgcolor="#050816">
+
+### 🧪 `ROLE // AI CHATBOT & GENAI BACKEND DEVELOPER`
+**FED Society** | *2024 — PRESENT*
+
+```
+Client ──► [FastAPI Gateway] ──► [Vector DB RAG] ──► [Memory Matrix] ──► Response
+```
+
+* **Modular FastAPI Microservices:** Engineered scalable backends integrating persistent vector databases with multi-turn conversation memory.
+* **30% Latency Reduction:** Accelerated end-to-end response pipelines through embedding matrix pooling and selective cross-encoder reranking.
+* **Production LLM Endpoints:** Architected robust fallback-enabled inference endpoints powering conversational wellness workflows.
+
+</td>
+<td width="50%" valign="top" bgcolor="#050816">
+
+### 📚 `RESEARCH // RAAHI (PIC-2026)`
+**Real-Time Transport Tracking in Low-Connectivity Cities**  
+*Proceedings of the 15th Project Innovation Contest (PIC-2026)*  
+*Satellite Event of ICDCIT-2026, KIIT*
+
+```yaml
+status: Peer-Reviewed & Published
+selection: Top 40 out of 160 submissions globally
+domains: [Distributed Systems, Edge Routing, Telemetry Sync]
+```
+
+* Formulated a fault-tolerant telemetry synchronization mechanism maintaining positional continuity across packet-loss-heavy cellular networks.
 
 </td>
 </tr>
@@ -168,259 +365,142 @@ latency_gain: 38%
 
 ---
 
-# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="34" /> PROJECT MATRIX
-
+<!-- Animated Glowing Cyber Laser Divider -->
 <div align="center">
-  <a href="https://github.com/DYNOSuprovo/intent-compiler">
-    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=DYNOSuprovo&repo=intent-compiler&theme=radical&hide_border=true" alt="intent compiler repo" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </div>
 
-<div align="center">
+<!-- ======================================================================= -->
+<!--                      PROBLEM SOLVING & DSA MATRIX                       -->
+<!-- ======================================================================= -->
 
-```diff
-+ Add dedicated public repos for Wheat Guardian, Aahar, and Pluto
-+ Then this section can become a full 4-card showcase grid
-```
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="34" /> AI SYSTEM MAP
+# <img src="https://media.giphy.com/media/1dMNqVx9Kb12EBjFrc/giphy.gif" width="36" /> `07 // ALGORITHMIC_CORE [PROBLEM_SOLVING]`
 
 <div align="center">
 
-```mermaid
-flowchart LR
-    A[User Query] --> B[Semantic Retrieval]
-    B --> C[Vector / Context Search]
-    C --> D[Agentic Reasoning]
-    D --> E[Grounding + Verification]
-    E --> F[FastAPI / UI Delivery]
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/TOTAL_SOLVED-340%2B%20PROBLEMS-00ff99?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/LEETCODE_RATING-1432%20CONTEST-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/HACKERRANK-5%20STAR%20PYTHON-ff007f?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/VERIFIED-PYTHON%20(BASIC)-00f7ff?style=for-the-badge&logo=checkmarx&logoColor=black" />
+</p>
 
-</div>
+| ALGORITHMIC DOMAIN | MASTERY DEPTH | CORE HEURISTICS & PATTERNS |
+| :--- | :---: | :--- |
+| **Dynamic Programming & Graphs** | `[██████████████░░] 88%` | State Compression, Topological Sort, Shortest Path (Dijkstra), Memoization |
+| **Sliding Window & Two Pointers** | `[████████████████] 96%` | Dynamic Subarrays, Monotonic Queues, Influx Stream Optimization |
+| **Trees, Heaps & Tries** | `[██████████████░░] 90%` | LCA via Binary Lifting, Prefix Search Trees, Priority Cache Scheduling |
+| **Asymptotic Bounds & Memory** | `[█████████████░░░] 85%` | Space-Complexity Guards, Bit Manipulation, CPU Cache Locality |
 
-<div align="center">
+<br/>
 
-```mermaid
-flowchart TD
-    A[Problem Idea] --> B[Design]
-    B --> C[Prototype]
-    C --> D[Model Integration]
-    D --> E[Backend API]
-    E --> F[Deployment]
-    F --> G[Iteration]
-```
+<!-- LeetCode Interactive Dark Visualizer -->
+<a href="https://leetcode.com/u/supromallick3/">
+  <img height="150" src="https://leetcard.jacoblin.cool/supromallick3?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Card" />
+</a>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="34" /> WEAPON STACK
+<!-- Animated Glowing Cyber Laser Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+</div>
+
+<!-- ======================================================================= -->
+<!--                          CREDENTIALS & HONORS                           -->
+<!-- ======================================================================= -->
+
+# <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="36" /> `08 // CREDENTIALS_VAULT [CERTIFICATIONS]`
 
 <div align="center">
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge\&logo=python\&logoColor=00F7FF)
-![Java](https://img.shields.io/badge/Java-1a1b27?style=for-the-badge\&logo=openjdk\&logoColor=ff00ff)
-![C++](https://img.shields.io/badge/C++-1a1b27?style=for-the-badge\&logo=c%2B%2B\&logoColor=00ff99)
-![C](https://img.shields.io/badge/C-1a1b27?style=for-the-badge\&logo=c\&logoColor=ffffff)
-
-### AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge\&logo=tensorflow\&logoColor=ff8800)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge\&logo=pytorch\&logoColor=ff4d4d)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-1a1b27?style=for-the-badge\&logo=scikitlearn\&logoColor=f7931e)
-![Transformers](https://img.shields.io/badge/Transformers-1a1b27?style=for-the-badge\&logo=huggingface\&logoColor=ffd43b)
-![Pandas](https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge\&logo=pandas\&logoColor=00e5ff)
-
-### GenAI / RAG
-
-![LangChain](https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge\&logoColor=00e5ff)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1b27?style=for-the-badge\&logoColor=ff00ff)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1b27?style=for-the-badge\&logoColor=b76eff)
-![FAISS](https://img.shields.io/badge/FAISS-1a1b27?style=for-the-badge\&logoColor=ffffff)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-1a1b27?style=for-the-badge\&logo=google\&logoColor=00e5ff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1b27?style=for-the-badge\&logo=huggingface\&logoColor=ffd43b)
-
-### Backend / Tools / Deployment
-
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge\&logo=fastapi\&logoColor=00ff99)
-![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge\&logo=docker\&logoColor=00e5ff)
-![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge\&logo=git\&logoColor=ff6b6b)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-1a1b27?style=for-the-badge\&logoColor=ffffff)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a1b27?style=for-the-badge\&logo=streamlit\&logoColor=ff4b4b)
-![Jupyter](https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge\&logo=jupyter\&logoColor=f37626)
+| ISSUING BODY | SPECIALIZATION / CERTIFICATION | VALIDATION |
+| :---: | :--- | :---: |
+| **Udemy** | [AI Engineer Agentic Track: Complete Agent & MCP Architecture](https://ude.my/UC-aa0f48a4-38f1-419e-b002-480e77546e57) | [VERIFY CREDENTIAL](https://ude.my/UC-aa0f48a4-38f1-419e-b002-480e77546e57) |
+| **IBM / Coursera** | [IBM RAG and Agentic AI Professional Specialization](https://coursera.org/share/31c66a1f30aa99e384edf689a3c9498a) | [VERIFY CREDENTIAL](https://coursera.org/share/31c66a1f30aa99e384edf689a3c9498a) |
+| **AWS / Coursera** | [AWS Generative AI Applications Specialization](https://coursera.org/share/e740d15052333a21d14c0de7e3f1c4cc) | [VERIFY CREDENTIAL](https://coursera.org/share/e740d15052333a21d14c0de7e3f1c4cc) |
+| **AWS / Coursera** | [AWS Fundamentals Specialization](https://coursera.org/share/ec4f21ab86dc9465ff464cc25ef0e005) | [VERIFY CREDENTIAL](https://coursera.org/share/ec4f21ab86dc9465ff464cc25ef0e005) |
+| **Microsoft / LinkedIn** | [Career Essentials in Generative AI](https://www.linkedin.com/learning/certificates/d194e5c715787c3fda6b61e78ad3724407010861e0dfa5a2060c32f6be5a027c) | [VERIFY CREDENTIAL](https://www.linkedin.com/learning/certificates/d194e5c715787c3fda6b61e78ad3724407010861e0dfa5a2060c32f6be5a027c) |
+| **IIT Madras** | [Foundation Level Certificate, BS in Data Science & Applications](https://drive.google.com/file/d/1W8ETfNcegEn2WlV4IxyIltRfpcoPl2ZI/view?usp=drive_link) | [VERIFY CREDENTIAL](https://drive.google.com/file/d/1W8ETfNcegEn2WlV4IxyIltRfpcoPl2ZI/view?usp=drive_link) |
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/1dMNqVx9Kb12EBjFrc/giphy.gif" width="34" /> POWER LEVELS
+<!-- Animated Glowing Cyber Laser Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+</div>
+
+<!-- ======================================================================= -->
+<!--                   TELEMETRY STREAM // REPO METRICS                      -->
+<!-- ======================================================================= -->
+
+# <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="36" /> `09 // TELEMETRY_STREAM [REPO_METRICS]`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Chatbot%20Speed-30%25%20Boost-00ff99?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-280%2B%20Solved-00e5ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HackerRank-5%20Star%20Python-ff00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-RAG%20%2B%20Agents-7a00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deployment-Live%20Systems-00c2ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vibe-Build%20Cool%20Stuff-ff4d4d?style=for-the-badge" />
+<!-- Dual Telemetry Row: GitHub Stats + Streak Stats -->
+<table border="0">
+<tr>
+<td align="center" valign="middle">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DYNOSuprovo&show_icons=true&theme=radical&hide_border=true&bg_color=050816&title_color=00f7ff&icon_color=ff007f&text_color=ffffff" alt="GitHub Stats" />
+</td>
+<td align="center" valign="middle">
+  <img height="180" src="https://streak-stats.demolab.com/?user=dynosuprovo&theme=radical&hide_border=true&background=050816&border=00f7ff&stroke=00f7ff&ring=ff007f&fire=ff007f&currStreakNum=00f7ff&sideNums=00f7ff&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=7a889b" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Top Languages Card -->
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYNOSuprovo&layout=compact&theme=radical&hide_border=true&bg_color=050816&title_color=00f7ff&text_color=ffffff" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Interactive Snake Contribution Eating Animation -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="34" /> GITHUB ANALYTICS CORE
-
+<!-- Animated Glowing Cyber Laser Divider -->
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dynosuprovo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dynosuprovo&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynosuprovo&layout=compact&theme=radical&hide_border=true" alt="langs" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dynosuprovo&theme=radical&utcOffset=5.5" alt="productive time" />
-</div>
+<!-- ======================================================================= -->
+<!--                          TRANSMISSION CHANNELS                          -->
+<!-- ======================================================================= -->
 
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dynosuprovo&theme=radical" alt="profile details" />
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="34" /> METRICS EXPANSION
-
-<div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dynosuprovo&theme=radical" alt="repos per language" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dynosuprovo&theme=radical" alt="most commit language" />
-</div>
-
-<div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dynosuprovo&theme=radical" alt="stats summary" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dynosuprovo&theme=radical&utcOffset=5.5" alt="productive time duplicate" />
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="34" /> CONTRIBUTION MATRIX
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dynosuprovo&bg_color=0d1117&color=00e5ff&line=ff00ff&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="34" /> LIVE ANIMATIONS
-
-<div align="center">
-  <img src="https://github.com/DYNOSuprovo/DYNOSuprovo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="alt snake" />
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="34" /> CYBER LAB
+# <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="36" /> `10 // COMM_LINK [TRANSMISSION_PORT]`
 
 <div align="center">
 
-```diff
-+ Experimenting with retrieval optimization
-+ Building RAG-backed assistants
-+ Designing agentic system flows
-+ Improving grounding and verification
-+ Shipping AI through APIs and frontends
-```
-
-</div>
-
-<div align="center">
-
-```yaml
-lab_focus:
-  - semantic retrieval
-  - vector search
-  - LLM orchestration
-  - FastAPI deployment
-  - inference optimization
-  - production-minded AI systems
-```
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="34" /> DEV PERSONALITY PATCH
-
-<div align="center">
+<p align="center">
+  <a href="mailto:supromallick3@gmail.com"><img src="https://img.shields.io/badge/GMAIL-1a1b27?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/suprovo-mallick-abb582287/"><img src="https://img.shields.io/badge/LINKEDIN-1a1b27?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" /></a>
+  <a href="https://github.com/DYNOSuprovo"><img src="https://img.shields.io/badge/GITHUB-1a1b27?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  <a href="https://huggingface.co/Dyno1307"><img src="https://img.shields.io/badge/HUGGING_FACE-1a1b27?style=for-the-badge&logo=huggingface&logoColor=ffd43b" alt="Hugging Face" /></a>
+  <a href="https://dyno-suprovo-github-io.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1a1b27?style=for-the-badge&logo=vercel&logoColor=ff007f" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/supromallick3/"><img src="https://img.shields.io/badge/LEETCODE-1a1b27?style=for-the-badge&logo=leetcode&logoColor=ffa116" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/supromallick3"><img src="https://img.shields.io/badge/HACKERRANK-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=00ff99" alt="HackerRank" /></a>
+</p>
 
 ```ini
-[system_profile]
-alias = DYNO
-mode = cyberpunk_ai_builder
-favorite_stack = Python + FastAPI + GenAI
-energy_source = curiosity + problem solving + cool demos
-preferred_output = systems_that_actually_work
+[SYSTEM_TRANSMISSION]
+STATUS   = "LISTENING_ON_ALL_PORTS"
+CHANNELS = ["Agentic RAG Architectures", "Multi-Agent System Graphs", "Deterministic AI Verification", "High-Throughput ML Backends"]
+QUOTE    = "Logic over guesswork. Evidence over hallucinations. Deployed systems over notebooks."
 ```
 
-</div>
+<br/>
 
----
+<!-- Cyber Wave Dynamic Neon Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff007f,25:7209b7,50:3a0ca3,75:120136,100:050816&section=footer&animation=twinkling" alt="Footer" />
 
-# <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="34" /> SIDE CHANNELS
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="joke" />
-</div>
-
-<div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="spotify" width="470" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Spotify%20Widget-Requires%20your%20own%20Novatorem%20setup-ffae00?style=for-the-badge" />
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="34" /> NETWORK LINKS
-
-<div align="center">
-<a href="mailto:supromallick3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a1b27?style=for-the-badge&logo=gmail&logoColor=00F7FF" /></a>
-<a href="https://www.linkedin.com/in/suprovo-mallick-abb582287/"><img src="https://img.shields.io/badge/LINKEDIN-1a1b27?style=for-the-badge&logo=linkedin&logoColor=00e5ff" /></a>
-<a href="https://github.com/DYNOSuprovo"><img src="https://img.shields.io/badge/GITHUB-1a1b27?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
-<a href="https://huggingface.co/Dyno1307"><img src="https://img.shields.io/badge/HUGGINGFACE-1a1b27?style=for-the-badge&logo=huggingface&logoColor=ffd43b" /></a>
-<a href="https://leetcode.com/u/supromallick3/"><img src="https://img.shields.io/badge/LEETCODE-1a1b27?style=for-the-badge&logo=leetcode&logoColor=ffa116" /></a>
-<a href="https://www.hackerrank.com/profile/supromallick3"><img src="https://img.shields.io/badge/HACKERRANK-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=00ff99" /></a>
-<a href="https://dyno-suprovo-github-io.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1a1b27?style=for-the-badge&logo=vercel&logoColor=ff00ff" /></a>
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="34" /> FINAL TRANSMISSION
-
-<div align="center">
-
-```diff
-+ I don't build dead demos.
-+ I build AI systems with movement.
-+ I build pipelines that deploy.
-+ I build products that feel alive.
-+ I build cool things because boring is illegal.
-```
-
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:ff00ff,18:00f5ff,40:3a0ca3,65:120136,85:050816,100:02020d&section=footer&animation=twinkling" alt="footer" />
 </div>
