@@ -500,6 +500,26 @@ QUOTE    = "Logic over guesswork. Evidence over hallucinations. Deployed systems
 
 <br/>
 
+<!-- ======================================================================= -->
+<!--                        GITHUB ACHIEVEMENTS                              -->
+<!-- ======================================================================= -->
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+| Badge | Description | Status |
+|-------|-------------|--------|
+| 🦈 **Pull Shark** | Opened pull requests that have been merged | Bronze ✅ |
+| 🎯 **YOLO** | Merged a pull request without a review | ✅ |
+| 🧠 **Galaxy Brain** | Answered a discussion (got an accepted answer) | In progress |
+| 🌟 **Starstruck** | Created a repository that has many stars | — |
+| 🤝 **Pair Extraordinaire** | Co-authored commits | — |
+
+</div>
+
+<br/>
+
 <!-- Cyber Wave Dynamic Neon Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff007f,25:7209b7,50:3a0ca3,75:120136,100:050816&section=footer&animation=twinkling" alt="Footer" />
 
