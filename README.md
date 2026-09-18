@@ -509,12 +509,42 @@ QUOTE    = "Logic over guesswork. Evidence over hallucinations. Deployed systems
 ### 🏆 GitHub Achievements
 
 | Badge | Description | Status |
-|-------|-------------|--------|
-| 🦈 **Pull Shark** | Opened pull requests that have been merged | Bronze ✅ |
-| 🎯 **YOLO** | Merged a pull request without a review | ✅ |
-| 🧠 **Galaxy Brain** | Answered a discussion (got an accepted answer) | In progress |
-| 🌟 **Starstruck** | Created a repository that has many stars | — |
-| 🤝 **Pair Extraordinaire** | Co-authored commits | — |
+|---|---|---|
+| 🦈 **Pull Shark** | Opened pull requests that have been merged | Bronze 🥉 ✅ |
+| 🎯 **YOLO** | Merged a pull request without a review | ✅ Unlocked |
+| ⚡ **Quickdraw** | Closed an issue or PR within 5 minutes | ✅ Unlocked |
+| 👥 **Pair Extraordinaire** | Co-authored commits on merged pull requests | Bronze 🥉 ✅ |
+| 🧠 **Galaxy Brain** | Answered discussions with accepted answers | ⏳ In progress (8 answers posted) |
+| 🌟 **Starstruck** | Created an original repository that has stars | ⏳ Target: 16 Stars |
+
+<br/>
+
+### 🌟 Featured Open-Source Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🏆 <a href="https://github.com/DYNOSuprovo/github-achievements-playbook">GitHub Achievements Playbook</a></h4>
+      <p align="center">
+        <a href="https://github.com/DYNOSuprovo/github-achievements-playbook">
+          <img src="https://img.shields.io/github/stars/DYNOSuprovo/github-achievements-playbook?style=for-the-badge&logo=github&color=gold" alt="Stars" />
+        </a>
+      </p>
+      <p align="center">The definitive, battle-tested guide and automation toolkit for unlocking every GitHub badge (YOLO, Pull Shark, Pair Extraordinaire, Galaxy Brain, Quickdraw, Starstruck).</p>
+      <p align="center"><b><a href="https://github.com/DYNOSuprovo/github-achievements-playbook">⭐ Star this Repository</a></b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">⚡ <a href="https://github.com/DYNOSuprovo/awesome-mcp-servers-skills">Awesome MCP Servers & Skills</a></h4>
+      <p align="center">
+        <a href="https://github.com/DYNOSuprovo/awesome-mcp-servers-skills">
+          <img src="https://img.shields.io/github/stars/DYNOSuprovo/awesome-mcp-servers-skills?style=for-the-badge&logo=github&color=gold" alt="Stars" />
+        </a>
+      </p>
+      <p align="center">A curated directory of production-ready Model Context Protocol (MCP) servers, tools, and AI agent skills for Claude, Antigravity, Gemini, and Cursor.</p>
+      <p align="center"><b><a href="https://github.com/DYNOSuprovo/awesome-mcp-servers-skills">⭐ Star this Repository</a></b></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
