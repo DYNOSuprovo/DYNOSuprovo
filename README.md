@@ -233,6 +233,36 @@ Product Vision ──► Agent Graph ──► Requirements Spec + Architecture 
 
 <br/>
 
+
+<br/>
+
+<!-- NODE 04 -->
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#050816">
+
+### ⚡ `NODE 04 // AWESOME AGENTIC PATTERNS & PLAYBOOK`
+> **Production AI Agent Architectures, MCP Directory & Developer Rule Blueprints**  
+> `Architectures: Hierarchical Supervisor • Evaluator-Optimizer • Tooling: MCP Servers • Runtimes: Claude, Cursor, Antigravity`
+
+```
+[AGENTIC TOPOLOGY]
+Prompt ──► Orchestrator ──► Subagents (Research/Coding) ──► MCP Tool Call ──► Verifier
+```
+
+* **Battle-Tested Agent Blueprints:** Curated system prompts and `.cursorrules`, `CLAUDE.md`, and `AGENTS.md` templates to eliminate token waste and prevent hallucinations.
+* **Model Context Protocol (MCP) Integration:** Production-ready server configurations for Filesystem, Git, Postgres, and SQLite tool execution.
+* **Automated Workspace Setup CLI:** Includes interactive Python wizard for auto-detecting project stacks and deploying agent directives in seconds.
+
+<div align="center">
+  <a href="https://github.com/DYNOSuprovo/awesome-agentic-patterns"><img src="https://img.shields.io/badge/REPO-AWESOME__AGENTIC__PATTERNS-00f7ff?style=for-the-badge&logo=github&logoColor=000" /></a>
+  <a href="https://github.com/DYNOSuprovo/awesome-agentic-patterns/stargazers"><img src="https://img.shields.io/github/stars/DYNOSuprovo/awesome-agentic-patterns?style=for-the-badge&color=ff007f" /></a>
+</div>
+
+</td>
+</tr>
+</table>
+
 <!-- AUXILIARY DEPLOYMENT MATRIX -->
 <div align="center">
 
@@ -511,7 +541,8 @@ QUOTE    = "Logic over guesswork. Evidence over hallucinations. Deployed systems
 | Badge | Description | Status | Verification & Evidence |
 |---|---|:---:|---|
 | 🧑‍🤝‍🧑 **Pair Extraordinaire** | Co-authored commits on merged pull requests | **Gold 🥇 Qualified** | **78 Merged PRs** (8 Upstream in `aws-powertools`, `openinference`, `anyio`, `Agronaut` + 70 Showcase) |
-| 🧠 **Galaxy Brain** | Answered technical discussions with accepted answers | **Silver 🥈 In Flight** | **5 Verified Accepted Answers** (Base ✅ Unlocked, 25 In-Flight Solutions live) |
+| 🧠 **Galaxy Brain** | Answered technical discussions with accepted answers | **Bronze 🥉 ✅ Unlocked** (Silver 🥈 In Flight) | **8 Verified Accepted Answers** (8 away from Silver at 16) |
+| 🌟 **Starstruck** | Created a repository that gained community stars | **In Flight 🚀** | [awesome-agentic-patterns](https://github.com/DYNOSuprovo/awesome-agentic-patterns) (Production AI Agent Playbook) |
 | 🦈 **Pull Shark** | Opened pull requests that have been merged | **Bronze 🥉 ✅** | Multiple merged pull requests across public open-source repos |
 | 🎯 **YOLO** | Merged a pull request without a review | **✅ Unlocked** | Unlocked on repository workflows |
 | ⚡ **Quickdraw** | Closed an issue or PR within 5 minutes | **✅ Unlocked** | Verified rapid triage response |
