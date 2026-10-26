@@ -540,10 +540,10 @@ QUOTE    = "Logic over guesswork. Evidence over hallucinations. Deployed systems
 
 | Badge | Description | Status | Verification & Evidence |
 |---|---|:---:|---|
-| 🧑‍🤝‍🧑 **Pair Extraordinaire** | Co-authored commits on merged pull requests | **Gold 🥇 Qualified** | **78 Merged PRs** (8 Upstream in `aws-powertools`, `openinference`, `anyio`, `Agronaut` + 70 Showcase) |
-| 🧠 **Galaxy Brain** | Answered technical discussions with accepted answers | **Bronze 🥉 ✅ Unlocked** (Silver 🥈 In Flight) | **8 Verified Accepted Answers** (8 away from Silver at 16) |
+| 🧑‍🤝‍🧑 **Pair Extraordinaire** | Co-authored commits on merged pull requests | **Silver 🥈 ✅ Unlocked** (Gold 🥇 Qualified) | **78 Merged PRs** (8 Upstream in `aws-powertools`, `openinference`, `anyio`, `Agronaut` + 70 Showcase) |
+| 🧠 **Galaxy Brain** | Answered technical discussions with accepted answers | **Bronze 🥉 ✅ Unlocked** (Silver 🥈 In Flight) | **12 Verified Accepted Answers** (Only 4 away from Silver at 16!) |
 | 🌟 **Starstruck** | Created a repository that gained community stars | **In Flight 🚀** | [awesome-agentic-patterns](https://github.com/DYNOSuprovo/awesome-agentic-patterns) (Production AI Agent Playbook) |
-| 🦈 **Pull Shark** | Opened pull requests that have been merged | **Bronze 🥉 ✅** | Multiple merged pull requests across public open-source repos |
+| 🦈 **Pull Shark** | Opened pull requests that have been merged | **Silver 🥈 ✅ Unlocked** | Multiple merged pull requests across public open-source repos |
 | 🎯 **YOLO** | Merged a pull request without a review | **✅ Unlocked** | Unlocked on repository workflows |
 | ⚡ **Quickdraw** | Closed an issue or PR within 5 minutes | **✅ Unlocked** | Verified rapid triage response |
 
